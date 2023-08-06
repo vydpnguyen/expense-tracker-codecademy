@@ -1,3 +1,16 @@
+# About
+
+This is my project for Codecademy's **Expense Tracker** in the **Full Stack Engineer** path. **Note:** The initial commit includes default files provided by Codecademy (www.codecademy.com). I have built upon this starting point to develop the project further.
+
+# Project Description
+
+This project - a budgeting and expense tracking app - allows you to practice refactoring with Redux Toolkit. The app allows you to set budgets for various categories, such as food and transportation, and track transactions in those categories. It then sums your spending in each category to calculate the amount of money that remains to be spent.
+
+You will work primarily in budgetsSlice.js and transactionsSlice.js where reducers and action creators are currently programmed by hand. Your task will be to refactor this project using a slice-based approach to produce the app’s actions and reducers.
+
+![Expense Tracker](public/expense-tracker.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
